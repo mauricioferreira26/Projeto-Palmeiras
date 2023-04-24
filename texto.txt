@@ -1,0 +1,26 @@
+fontes:
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap'); (conteudo) font-family: 'Roboto', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap'); (título) font-family: 'Fjalla One', sans-serif;
+
+cores:#E9E9E9 (fundo do body)
+      #013920 (header e footer)
+	
+
+
+O Palmeiras é tricampeão continental. Em uma decisão com todos os ingredientes de um grande jogo no mítico Centenário,em 
+Montevidéu, o time alviverde derrotou o Flamengo por 2 a 1, com gol na prorrogação, e levou a taça da Libertadores pela terceira vez
+
+
+A equipe de Abel Ferreira foi melhor no primeiro tempo e encontrou seu gol cedo, aos cinco minutos,
+com Raphael Veiga. A equipe rubro-negra cresceu na etapa final e marcou com Gabigol após tabela com Arrascaeta.
+Na prorrogação, brilhou a estrela de um herói improvável, Deyverson, que entrou na vaga do lesionado Veiga para
+anotar o gol do título e fazer história. Definitivamente, é um grande personagem, com muita história para contar
+
+
+
+Campeão em 1999, 2020 e agora em 2021, o Palmeiras se junta a Grêmio, São Paulo e Santos na lista dos brasileiros que mais venceram o
+torneio continental. Além disso, quebrou um tabu de quatro anos sem vencer o rival carioca. Abel Ferreira, com a sua terceira taça,
+a segunda da maior competição da América do Sul, entra para o rol dos grandes técnicos da Libertadores.
+
+
+
