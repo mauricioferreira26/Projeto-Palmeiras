@@ -31,8 +31,10 @@ header{
 
 header h1{
     color: white;
-    font-size: 70px;
+    font-size: 50px;
     font-family: var(--fonttitulo);
+    max-width: 800px;
+    margin: auto;
 }
 
 header > P{
@@ -42,36 +44,22 @@ header > P{
     font-size: 20px;
 }
 
-#logo{
-    display: inline-block;
-    background-image: url(../imagens/logo-palmeiras.png);
-    background-repeat: no-repeat;
-    background-size:contain;
-    
-    width: 150px;
-    height: 150px;
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    margin-top: 20px;
-    margin-right: 20px;
-    
-}
 
 nav{
     background-color: #289564;
     padding: 5px 0px;
     text-align: center;
     color: var(--corprimaria);
+    
 }
 
 nav > a{
     color: white;
     text-decoration: none;
     font-family: var(--fontconteudo);
-    margin: 0px 50px;
+    
     font-size: 20px;
-    padding: 5px;
+    padding: 5px 40px;
     max-width: 500px;
 }
 
@@ -87,6 +75,7 @@ main{
     max-width: 800px;
     background-color: white;
     min-height: 100vh;
+    box-shadow: 1px 3px 10px rgba(0, 0, 0, 0.277);
 }
 
 h2{
@@ -128,19 +117,22 @@ section#deyverson > p{
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
+    box-shadow: 1px 3px 10px rgba(0, 0, 0, 0.277);
 }
 
 #time{
     height: 400px;
     background-image: url(../imagens/palmeira01.jpg);
     background-size: cover;
+    box-shadow: 1px 3px 10px rgba(0, 0, 0, 0.277);
 }
 
 aside{
     max-width: 800px;
-    
+    margin-top: 50px;
     border-radius: 10px 10px 0px 0px;
     font-family: var(--fonttitulo);
+    box-shadow: 1px 3px 10px rgba(0, 0, 0, 0.277);
     
 }
 aside > h3{
@@ -162,6 +154,7 @@ aside > ul{
     list-style-position: inside ;
     height: 400px;
     color: #00ff8c;
+    text-shadow: 3px 2px 2px black;
     font-size: 25px;
     line-height: 50px;
 }
@@ -179,9 +172,15 @@ footer{
     text-align: center;
     padding: 5px;
     font-size: 18px;
+}
+
+footer  a{
     text-decoration: none;
+    color: white;
+    
 }
 
 a:hover{
     text-decoration: underline;
+    color: #00ff8c;
 }
