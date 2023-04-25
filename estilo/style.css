@@ -30,6 +30,7 @@ header{
 }
 
 header h1{
+    
     color: white;
     font-size: 50px;
     font-family: var(--fonttitulo);
@@ -40,6 +41,7 @@ header h1{
 header > P{
     color: #04ff8e;
     font-family: var(--fonttitulo);
+    margin-top: 10px;
     padding-bottom: 40px;
     font-size: 20px;
 }
@@ -59,7 +61,7 @@ nav > a{
     font-family: var(--fontconteudo);
     
     font-size: 20px;
-    padding: 5px 40px;
+    padding: 5px 30px;
     max-width: 500px;
 }
 
@@ -124,6 +126,7 @@ section#deyverson > p{
     height: 400px;
     background-image: url(../imagens/palmeira01.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
     box-shadow: 1px 3px 10px rgba(0, 0, 0, 0.277);
 }
 
@@ -150,6 +153,7 @@ aside > ul{
     background-image: url(../imagens/abel.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center center;
     padding: 5px;
     list-style-position: inside ;
     height: 400px;
